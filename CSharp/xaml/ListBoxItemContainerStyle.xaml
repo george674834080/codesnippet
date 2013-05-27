@@ -1,0 +1,11 @@
+<ctrls:AutoListBox.ItemContainerStyle>
+    <Style TargetType="ListBoxItem">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate>
+                    <ContentPresenter HorizontalAlignment="Stretch" VerticalAlignment="Stretch" />
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ctrls:AutoListBox.ItemContainerStyle>
